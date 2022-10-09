@@ -1,18 +1,3 @@
-# from asyncio.windows_events import NULL
-# import openpyxl
-
-# book = openpyxl.Workbook()
-
-# book.create_sheet('Sheet')
-# sheet = book['Sheet']
-
-# sheet.cell(1, 1).value = None
-# sheet.cell(2, 1).value = '姓名'
-# # sheet.cell(3, 1).value = '林新发'
-# # del book['Sheet']
-# book.save(u'我的表格.xlsx')
-# book.close()
-
 from Graph import Graph, test1, test2
 
 
